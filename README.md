@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **CRM**<br><br>🌱 I’m currently learning **Vue.js**<br><br>👯 I’m looking to collaborate on **SpaceX**<br><br>👨‍💻 All of my projects are available at **https://t.ly/rpoDK**<br><br>📝 I regularly write articles on **Next.js** and **Express**<br><br>💬 Ask me about **React Ecosystem**<br><br>📫 How to reach me **https://t.ly/DDQ7V**<br><br>⚡ Fun fact **Why do React developers prefer functional components? Because they never let state get too emotional!**
+🔭 I’m currently working on **TaskHacks**<br><br>🌱 I’m currently learning **Vue.js**<br><br>👯 I’m looking to collaborate on **SpaceX**<br><br>👨‍💻 All of my projects are available at **https://t.ly/rpoDK**<br><br>📝 I regularly write articles on **Next.js** and **Express**<br><br>💬 Ask me about **React Ecosystem**<br><br>📫 How to reach me **https://t.ly/DDQ7V**<br><br>⚡ Fun fact **Why do React developers prefer functional components? Because they never let state get too emotional!**
 
 
 ## 🌐 Socials:
