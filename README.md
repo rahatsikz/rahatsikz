@@ -60,10 +60,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+ 
 </div>
 
 ###
