@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/rahat_sikder" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo"  />
   </a>
-  <a href="rahatsikz@gmail.com" target="_blank">
+  <a href="mailto:rahatsikz@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -64,10 +64,13 @@
 </div>
 
 ###
+<h2 align="left">Stat that matters</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahatsikz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rahatsikz&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahatsikz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  /> &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=rahatsikz&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> 
+<br><br>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahatsikz&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
