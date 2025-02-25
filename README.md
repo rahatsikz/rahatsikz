@@ -3,7 +3,7 @@
 ### It's Rahat...
 ### Your Friendly Neighborhood Software Dev
 
-Since 2017, I've been coding my way through the tech world. In 2022, I decided to go all-in on the JavaScript stack, bringing a fresh perspective to modern web development. My expertise lies in **React.js**, **Next.js**, and **Express**, with a knack for building sleek, high-performance applications.
+Since 2017, I've been coding my way through the tech world. In 2022, I decided to go all-in on the JavaScript stack, bringing a fresh perspective to modern development lifecycle. My expertise lies in **React.js**, **Next.js**, and **Express**, with a knack for building sleek, high-performance applications.
 
 ### 💡 A Little More About Me
 - 🚀 I love turning complex development problems into simple and beautiful solutions.
