@@ -1,4 +1,4 @@
-# Hey.. Welcome to my GitHub Treasure👋
+[# Hey.. Welcome to my GitHub Treasure👋
 
 ### It's Rahat...
 ### Your Friendly Neighborhood Software Dev
@@ -15,7 +15,7 @@ Since 2017, I've been coding my way through the tech world. In 2022, I decided t
 ## 🚪 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahatsikz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rahat_sikder)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rahat_nsxd)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahatsikz@gmail.com)
 
 ---
@@ -54,3 +54,4 @@ Since 2017, I've been coding my way through the tech world. In 2022, I decided t
 
 Thanks for stopping by! Feel free to connect and let's build something amazing together. 🚀
 
+](https://rahatsikder.com/)
