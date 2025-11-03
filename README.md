@@ -1,4 +1,4 @@
-# 🔉 Hey, Welcome to My GitHub Trench
+### 🔉 Hey, Welcome to My GitHub Trench
 
 ### it’s Rahat ...
 Your Friendly Neighborhood Software Developer  
@@ -6,13 +6,13 @@ Your Friendly Neighborhood Software Developer
 Since 2017, I have been navigating the development world. In 2022, I dove deep into the **JavaScript ecosystem**, mastering **React.js**, **Next.js** and **Express**, building high-performance, sleek applications with modern best practices.
 
 
-## About Me
+### About Me
 - Turning complex problems into simple, elegant solutions.  
 - Crafting delightful, user-centric interfaces with passion for clean UI and smooth UX.  
 - Writing DRY and optimized code… or sometimes writing nonsense first and then refactoring it to perfection.  
 - Continuously learning and keeping up with modern frontend trends.
 
-## Tech Stack
+### Tech Stack
 
 **Frontend:**
 
@@ -54,8 +54,9 @@ Since 2017, I have been navigating the development world. In 2022, I dove deep i
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20CI/CD-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
-## GitHub Stats
+### GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=rahatsikz&show_icons=true&theme=react&hide_border=false&border_radius=8" height="180" alt="GitHub Stats" /> &nbsp;
@@ -64,22 +65,13 @@ Since 2017, I have been navigating the development world. In 2022, I dove deep i
 
 ### Let’s Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/rahatsikz" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/rahat_nsxd" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;
-  <a href="mailto:mailtorahat@proton.me" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
- <a href="https://github.com/rahatnsxd" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Office%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Office GitHub" />
- </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahatsikz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rahat_nsxd)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtorahat@proton.me)
+[![Office GitHub](https://img.shields.io/badge/Office%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahatnsxd)
+
 
 ### Explore My Portfolio
-Step into my **terminal-themed portfolio** - a minimal, interactive experience that reflects my coding mindset.
+Step into my **Terminal themed portfolio** - a minimal, interactive experience that reflects my coding mindset.
 
 ➡️ <a href="https://rahatsikder.com/" target="_blank" rel="noopener noreferrer"><b>Visit My Professional Portfolio</b></a>
