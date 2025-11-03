@@ -62,23 +62,24 @@ Since 2017, I have been navigating the development world. In 2022, I dove deep i
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahatsikz&layout=compact&show_icons=true&theme=react&hide_border=false&border_radius=8" height="180" alt="Top Languages" />
 </p>
 
-## Let’s Connect
+### Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/rahatsikz">
+  <a href="https://www.linkedin.com/in/rahatsikz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/rahat_nsxd">
+  <a href="https://www.instagram.com/rahat_nsxd" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;
-  <a href="mailto:mailtorahat@proton.me">
+  <a href="mailto:mailtorahat@proton.me" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
- <a href="https://github.com/rahatnsxd">
+ <a href="https://github.com/rahatnsxd" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Office%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Office GitHub" />
  </a>
 </p>
 
-Thanks for stopping by...! Feel free to connect so we can build something amazing together 🚀 
+### Explore My Portfolio
+Step into my **terminal-themed portfolio** - a minimal, interactive experience that reflects my coding mindset.
 
-[Visit my website](https://rahatsikder.com/)
+➡️ <a href="https://rahatsikder.com/" target="_blank" rel="noopener noreferrer"><b>Visit My Professional Portfolio</b></a>
